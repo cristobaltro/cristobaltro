@@ -1,4 +1,4 @@
-## Hi there 👋
+## hola me llamo cristobal, este es mi portafolios, por ahora no hay mucho pero hare lo que pueda para mejorarlo
 
 <!--
 **cristobaltro/cristobaltro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
